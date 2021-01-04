@@ -62,7 +62,7 @@
       "value": "Basic"
     },
     "privateIpAddress": {
-      "value": "10.0.0.10"
+      "value": "10.0.0.4"
     },
     "virtualMachineName": {
       "value": "ad"
